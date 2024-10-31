@@ -16,3 +16,12 @@ src: url(./assets/RobotoCondensed-VariableFont_wght.ttf);
 html {
   font-family: "Roboto condensed";
 }
+
+header{
+  height: 100vh;
+}
+
+#burger {
+  color: white;
+  font-size: 2.5rem;
+}
